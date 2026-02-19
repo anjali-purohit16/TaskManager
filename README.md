@@ -174,8 +174,11 @@ UI responsiveness checked
 📸 Screenshots
 
 Add screenshots here:
+[Home Page](./screenshots/home.png)
 
-/screenshots/home.png
+
+[Create-Task](./screenshots/create-task.png)
+
 /screenshots/create-task.png
 
 📈 Evaluation Criteria Covered
